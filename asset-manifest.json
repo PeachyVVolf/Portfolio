@@ -1,26 +1,23 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.bdaffd0a.css",
-    "main.js": "/Portfolio/static/js/main.7aad3f32.js",
-    "static/media/temp5.jpg": "/Portfolio/static/media/temp5.362cae9877fb417cf798.jpg",
-    "static/media/temp3.jpg": "/Portfolio/static/media/temp3.a79ae277511817721974.jpg",
-    "static/media/temp1.jpg": "/Portfolio/static/media/temp1.ea77b61ea16374579578.jpg",
-    "static/media/temp7.jpg": "/Portfolio/static/media/temp7.51e2c9e250f0a353a5ed.jpg",
-    "static/media/temp2.jpg": "/Portfolio/static/media/temp2.49b3899b9512415127d6.jpg",
+    "main.js": "/Portfolio/static/js/main.addbff9d.js",
+    "static/media/temp4.png": "/Portfolio/static/media/temp4.dc39bf404623d7cb556d.png",
+    "static/media/temp11.png": "/Portfolio/static/media/temp11.2fdfe72fbf624b404f70.png",
+    "static/media/temp5.png": "/Portfolio/static/media/temp5.db9f751c8ee213824a98.png",
+    "static/media/temp6.png": "/Portfolio/static/media/temp6.37539fc51156b9cff2b2.png",
+    "static/media/temp8.png": "/Portfolio/static/media/temp8.8a832c324f5d66441695.png",
+    "static/media/temp7.png": "/Portfolio/static/media/temp7.40d40fbd8e413c3727db.png",
+    "static/media/temp10.png": "/Portfolio/static/media/temp10.e899285db21e228cc28a.png",
     "static/media/mock5.png": "/Portfolio/static/media/mock5.c9b5f54e8517e13fc897.png",
-    "static/media/temp8.jpg": "/Portfolio/static/media/temp8.9fd701b6d479d3790319.jpg",
-    "static/media/self.png": "/Portfolio/static/media/self.aee462936ba9b2cd418f.png",
-    "static/media/temp9.jpg": "/Portfolio/static/media/temp9.ccbde05504a25d15d6ab.jpg",
+    "static/media/temp9.png": "/Portfolio/static/media/temp9.08f473b08b45eb2ef38a.png",
     "static/media/AhmadAjmal.jpg": "/Portfolio/static/media/AhmadAjmal.15f5c2d03455b32549bf.jpg",
-    "static/media/temp10.jpg": "/Portfolio/static/media/temp10.7ae1a5feecc9b1aacb69.jpg",
-    "static/media/temp4.jpg": "/Portfolio/static/media/temp4.582109d4d84f84e211f2.jpg",
-    "static/media/temp6.jpg": "/Portfolio/static/media/temp6.2230101b340834eb3121.jpg",
     "index.html": "/Portfolio/index.html",
     "main.bdaffd0a.css.map": "/Portfolio/static/css/main.bdaffd0a.css.map",
-    "main.7aad3f32.js.map": "/Portfolio/static/js/main.7aad3f32.js.map"
+    "main.addbff9d.js.map": "/Portfolio/static/js/main.addbff9d.js.map"
   },
   "entrypoints": [
     "static/css/main.bdaffd0a.css",
-    "static/js/main.7aad3f32.js"
+    "static/js/main.addbff9d.js"
   ]
 }
