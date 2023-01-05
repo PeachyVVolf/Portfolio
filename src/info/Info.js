@@ -1,5 +1,7 @@
 import self from "../img/AhmadAjmal.jpg"
 import temp4 from '../img/temp4.png'
+import temp1 from '../img/temp1.png'
+import temp2 from '../img/temp2.png'
 import temp5 from '../img/temp5.png'
 import temp6 from '../img/temp6.png'
 import temp7 from '../img/temp7.png'
@@ -7,7 +9,6 @@ import temp8 from '../img/temp8.png'
 import temp9 from '../img/temp9.png'
 import temp10 from '../img/temp10.png'
 import temp11 from '../img/temp11.png'
-import mock5 from "../img/mock5.png"
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 
@@ -91,6 +92,18 @@ export const info = {
         },
     ],
     portfolio: [ 
+        {
+            title: "CircleOf",
+            live: "https://circleof.com/", 
+            source: "https://github.com/PeachyVVolf/circleof", 
+            image: temp1
+        },
+        {
+            title: "NightShift",
+            live: "", 
+            source: "https://github.com/PeachyVVolf/nightshift", 
+            image: temp2
+        },
         {
             title: "Rastay.pk",
             live: "http://rastay.pk/", 
