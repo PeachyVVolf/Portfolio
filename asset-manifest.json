@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.bdaffd0a.css",
-    "main.js": "/Portfolio/static/js/main.addbff9d.js",
+    "main.js": "/Portfolio/static/js/main.a1264fd8.js",
     "static/media/temp4.png": "/Portfolio/static/media/temp4.dc39bf404623d7cb556d.png",
     "static/media/temp11.png": "/Portfolio/static/media/temp11.2fdfe72fbf624b404f70.png",
     "static/media/temp5.png": "/Portfolio/static/media/temp5.db9f751c8ee213824a98.png",
     "static/media/temp6.png": "/Portfolio/static/media/temp6.37539fc51156b9cff2b2.png",
     "static/media/temp8.png": "/Portfolio/static/media/temp8.8a832c324f5d66441695.png",
     "static/media/temp7.png": "/Portfolio/static/media/temp7.40d40fbd8e413c3727db.png",
+    "static/media/temp1.png": "/Portfolio/static/media/temp1.7d0704652c7b51eae27f.png",
     "static/media/temp10.png": "/Portfolio/static/media/temp10.e899285db21e228cc28a.png",
-    "static/media/mock5.png": "/Portfolio/static/media/mock5.c9b5f54e8517e13fc897.png",
+    "static/media/temp2.png": "/Portfolio/static/media/temp2.f170a99b8a79a7499b86.png",
     "static/media/temp9.png": "/Portfolio/static/media/temp9.08f473b08b45eb2ef38a.png",
     "static/media/AhmadAjmal.jpg": "/Portfolio/static/media/AhmadAjmal.15f5c2d03455b32549bf.jpg",
     "index.html": "/Portfolio/index.html",
     "main.bdaffd0a.css.map": "/Portfolio/static/css/main.bdaffd0a.css.map",
-    "main.addbff9d.js.map": "/Portfolio/static/js/main.addbff9d.js.map"
+    "main.a1264fd8.js.map": "/Portfolio/static/js/main.a1264fd8.js.map"
   },
   "entrypoints": [
     "static/css/main.bdaffd0a.css",
-    "static/js/main.addbff9d.js"
+    "static/js/main.a1264fd8.js"
   ]
 }
